@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ENateTheGreat
 - 👀 I’m interested in coding, music, and video games
-- 🌱 I’m currently learning JavaScript, HTML, CSS, React, Node, and SQL
-- 💞️ Not currently looking to collaborate as I am still learning!
+- 🌱 I'm a Front End Developer focused on React.js
+- 💞️ Lets chat and see how we can collaborate!
 - 📫 Reach me at ENateMusic00@gmail.com!
 
 <!---
